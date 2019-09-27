@@ -87,3 +87,6 @@ typings/
 
 # Electron-Forge
 out/
+
+# Eve database
+sqlite-latest.sqlite
